@@ -1,0 +1,8 @@
+API KEY
+AIzaSyAJeY_CbwxY-qLzRuo7S777WdapVX8GOhY
+
+Configuring credentials for jorgeetrejoo in project 6-tenedores
+Google Certificate Fingerprint:     CC:78:DC:0E:42:D1:5D:73:E8:73:3F:76:95:BF:78:64:FF:E4:67:A9
+Google Certificate Hash (SHA-1):    CC78DC0E42D15D73E8733F7695BF7864FFE467A9
+Google Certificate Hash (SHA-256):  E221DA24F22A47F534A65A35B1B6A0EF50B9136B95409C214DE29F1B0995B381
+Facebook Key Hash:                  zHjcDkLRXXPocz92lb94ZP/kZ6k=
