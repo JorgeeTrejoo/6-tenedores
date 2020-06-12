@@ -12,7 +12,7 @@ export default function TopRestaurantsStack(){
             }}
         >
             <Stack.Screen 
-                name = "restaurants"
+                name = "top-restaurants"
                 component = { TopRestaurants }
                 options = {{
                     title: "Top 5 Restaurantes"
